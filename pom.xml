@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>DataToCloud</artifactId>
+    <artifactId>data_to_cloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DataToCloud</name>
-    <description>DataToCloud</description>
+    <name>data_to_cloud</name>
+    <description>data_to_cloud</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -82,6 +82,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>data_to_cloud</finalName>
     </build>
 
 </project>
