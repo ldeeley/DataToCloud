@@ -21,7 +21,7 @@ public class DataToCloudApplication {
 
     @PostConstruct
     public void init() {
-        logger.info("Application started ....");
+        logger.info("Application started message....");
     }
 
 
