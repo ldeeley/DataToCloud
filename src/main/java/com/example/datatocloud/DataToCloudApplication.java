@@ -26,7 +26,7 @@ public class DataToCloudApplication {
 
 
     public static void main(String[] args) {
-        logger.info("Application executed ....");
+        logger.info("Application executed groovy....");
         SpringApplication.run(DataToCloudApplication.class, args);
     }
 
